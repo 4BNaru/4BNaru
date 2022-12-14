@@ -1,6 +1,12 @@
-### Hi there 👋
+사비나루
+================
+-----------------------------
+취미로 코딩하는 산업디자인 전공 프리렌서 3D 모델러
 
-<center>asdf</center>
+유니티, 언리얼엔진 공부중
+
+------------------------------
+![4BNaru's github stats](https://github-readme-stats.vercel.app/api?username=4BNaru&show_icons=true)
 
 <!--
 **4BNaru/4BNaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
